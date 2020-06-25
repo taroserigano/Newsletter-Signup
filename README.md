@@ -9,9 +9,5 @@ https://mysterious-mountain-45649.herokuapp.com/
 
 *SAMPLE*
 
-https://github.com/taroserigano/Newsletter-Signup/blob/master/public/images/sample.jpg
-![Settings Window](https://raw.github.com/taroserigano/Newsletter-Signup/blob/master/public/images/sample.jpg)
-
-
 
 ![Image of Yaktocat](https://github.com/taroserigano/Newsletter-Signup/blob/master/public/images/sample.jpg)
