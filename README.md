@@ -1,6 +1,6 @@
 # Newsletter-Signup
 
-This is a Newsletter Signup app that uses Node.js, Bootstrap, MailChimp, Heroku and Git.
+This is a Newsletter Signup app that uses Node.js, Express, Bootstrap, MailChimp, Heroku and Git.
 
 Install node modules if you want to launch this project.
 
